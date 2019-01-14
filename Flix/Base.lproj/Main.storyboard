@@ -54,15 +54,15 @@
                                             </subviews>
                                             <constraints>
                                                 <constraint firstAttribute="trailing" secondItem="79x-dQ-0q6" secondAttribute="trailing" constant="8" id="3GQ-VH-gJe"/>
-                                                <constraint firstItem="Fva-CU-mqZ" firstAttribute="trailing" secondItem="jmQ-ri-v8z" secondAttribute="trailingMargin" constant="8" id="DEN-dG-8Ff"/>
+                                                <constraint firstItem="Fva-CU-mqZ" firstAttribute="bottom" secondItem="jmQ-ri-v8z" secondAttribute="bottomMargin" constant="2" id="Fab-ff-44F"/>
                                                 <constraint firstItem="79x-dQ-0q6" firstAttribute="top" secondItem="7CV-Ex-V6c" secondAttribute="top" id="KEz-Vu-BTr"/>
-                                                <constraint firstAttribute="bottom" secondItem="Fva-CU-mqZ" secondAttribute="bottom" constant="8" id="KJ3-ft-pDT"/>
-                                                <constraint firstItem="Fva-CU-mqZ" firstAttribute="top" secondItem="79x-dQ-0q6" secondAttribute="bottom" constant="20.5" id="OcJ-q4-H85"/>
-                                                <constraint firstItem="Fva-CU-mqZ" firstAttribute="leading" secondItem="7CV-Ex-V6c" secondAttribute="trailing" constant="8" id="PQf-sm-d7q"/>
+                                                <constraint firstItem="Fva-CU-mqZ" firstAttribute="trailing" secondItem="jmQ-ri-v8z" secondAttribute="trailingMargin" constant="8" id="KGv-CH-RJd"/>
                                                 <constraint firstItem="7CV-Ex-V6c" firstAttribute="top" secondItem="jmQ-ri-v8z" secondAttribute="top" constant="8" id="PYd-cc-Pv3"/>
                                                 <constraint firstAttribute="bottom" secondItem="7CV-Ex-V6c" secondAttribute="bottom" constant="8" id="QjA-sL-js0"/>
+                                                <constraint firstItem="Fva-CU-mqZ" firstAttribute="leading" secondItem="7CV-Ex-V6c" secondAttribute="trailing" constant="8" id="Ybj-bc-BNe"/>
                                                 <constraint firstItem="79x-dQ-0q6" firstAttribute="leading" secondItem="7CV-Ex-V6c" secondAttribute="trailing" constant="8" id="fQb-6f-WX2"/>
                                                 <constraint firstItem="7CV-Ex-V6c" firstAttribute="leading" secondItem="jmQ-ri-v8z" secondAttribute="leading" constant="8" id="tVg-Fe-zEy"/>
+                                                <constraint firstItem="Fva-CU-mqZ" firstAttribute="top" secondItem="79x-dQ-0q6" secondAttribute="bottom" constant="18.5" id="wNl-Al-FHp"/>
                                                 <constraint firstAttribute="trailing" secondItem="79x-dQ-0q6" secondAttribute="trailing" constant="8" id="xL9-jr-V0r"/>
                                             </constraints>
                                         </tableViewCellContentView>
